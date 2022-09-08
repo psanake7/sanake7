@@ -1,0 +1,32 @@
+﻿✍️ Syllabus of Java✍️ 
+📙  Core Java
+📙  Java 1.8 Features
+📙  Advanced Java(JDBC, JSP, Servlets)
+📙  Design Pattern
+📙  Spring IOC
+📙  Spring MVC
+📙  Spring Boot
+📙  Hibernate
+📙  Restful API
+📙  Microservices
+📙  Angular 6.0
+📙  HTML
+📙  CSS
+📙  Database 
+📌 Real time tools📌
+  ⚙️ Agile Methodology
+  ⚙️ Apache Tomcat Server
+  ⚙️ Eclipse
+  ⚙️ GitHub
+  ⚙️ Swagger
+  ⚙️ JIRA
+  ⚙️ Junit
+  ⚙️ Mockito
+  ⚙️ Logger
+  ⚙️ Maven
+  ⚙️  Node JS
+  ⚙️  Visual Studio code 
+  ⚙️ STS
+  ⚙️ Postman
+  🔴 Mini Project
+🗞️ Industrial Projects-2🗞️
